@@ -1,9 +1,9 @@
-# easy-shop
-* home page of easy-shop 
+# Tikdi
+* home page of Tikdi 
 * this is where the user can sign in or create a new account
 <img src="/projectliveimages/1.png">
 
-* login page of easy-shop
+* login page of Tikdi
 * here the user need to enter their login credentials to login into their account
 <img src="/projectliveimages/2.png">
 
